@@ -17,11 +17,13 @@
 
 
 ### Unified Kill Chain
-  Learned: A more updated and advanced framework compared to the cyber kill chain, highlighting the 18 phases attackers utilise
+  Explanation: A more updated and advanced framework compared to the cyber kill chain, highlighting the 18 phases attackers utilise.
+  Learned: Specific steps attackers take at each phase of the framework. 
 
 
-###
-  Skills:
-  Tools Used:
-  Takeaway:
-  Learned:
+### Diamond Model
+  Explanation: A model that maps the four core elements of an attack — adversary, capability, infrastructure, and victim — to help analysts understand the relationships and patterns behind cyber threats.
+
+
+### MITRE
+Explanastion: 
