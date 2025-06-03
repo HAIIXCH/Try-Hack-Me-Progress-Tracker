@@ -5,5 +5,5 @@
 
 
 ### Threat Intelligence Tools
-  Explanation: 
-  Tools: UrlScan.io, Abuse.ch (Malware Bazaar, Feodo Tracker, SSL Blacklist, URL HAUS, Threat Fox), Phishing Tool, 
+  Explanation: Various tools which are used by security analysists to undertsnad and analyse risks associated with existing or emerging threats.
+  Tools: UrlScan.io, Abuse.ch (Malware Bazaar, Feodo Tracker, SSL Blacklist, URL HAUS, Threat Fox), Phishing Tool, Cisco Talos, 
