@@ -1,2 +1,3 @@
 ## Traffic Analysis Essentials
-  Explanation: 
+  Explanation: Undertsanding network security operations and analysing network traffic. 
+  What I Can Teach Someone From This Room: Traffic entering a system can be captured like a video camera recording footage. This capture can be analysed to see what is malicious data/requests/intentions and whats legitimate traffic. The "bad" traffic can be blocked entirely from its IP address or certain ports can be blocked to stop receiving or sending data. 
