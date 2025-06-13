@@ -4,5 +4,5 @@
 
 
 ### Snort
-  Explanation: 
-  WICTSFTR: 
+  Explanation: A network intrusion detection and prevention system (NIDS/NIPS) that monitors and analyses network traffic in real time to detect suspicious activity and enhance overall system security.
+  WICTSFTR: Specific IP addresses can be blocked from sending packets to a system using snort and you can make an exception to always allow traffic from specific IP's. This is by using Snort rules.
