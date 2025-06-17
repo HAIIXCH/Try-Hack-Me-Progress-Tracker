@@ -10,4 +10,4 @@
 
 ### Snort Challenge - The Basics
   Explanation: A scenario cahllenge where we created/fixed Snort rules to analyse traffic for information we need.
-  WICTSFTR: Entering hex data format of a file such as a jpeg in the content rule creation allows us to see whether jpegs have been inbound or outbound over the traffic. 
+  WICTSFTR: You can detect specific file types, like JPEGs, in network traffic by using their hexadecimal file signatures (magic numbers) in a Snort content rule.
