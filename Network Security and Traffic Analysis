@@ -18,5 +18,5 @@
 
 
 ### NetworkMiner
-  Explanation: 
-  WICTSFTR: 
+  Explanation: Analyses pcap files allowing for useful features such as keyword searching. Similar to Autopsy but specically a traffic pasring tool. 
+  WICTSFTR: Using this tool to intercept plain text communication, I can pick up anything such as user credentials. 
