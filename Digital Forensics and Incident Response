@@ -5,3 +5,4 @@
 ### Windows Forensics 1
   Explanation: Tracking artifacts, which are like footprints left behind on a system, to learn more about an incident/attacker/etc. 
   Tools: Windows Registry, Registry Explorer, RegRipper
+
