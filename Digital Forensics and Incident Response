@@ -1,2 +1,7 @@
 ### DFIR: An Introduction
   Explanation: The combination of digital forensics and incident response. The 2 domains working interdependently allow DFIR analysts to detect, investigate, and respond to cyber incidents swiftly. 
+
+
+### Windows Forensics 1
+  Explanation: Tracking artifacts, which are like footprints left behind on a system, to learn more about an incident/attacker/etc. 
+  Tools: Windows Registry, Registry Explorer, RegRipper
