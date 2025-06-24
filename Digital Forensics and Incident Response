@@ -6,3 +6,7 @@
   Explanation: Tracking artifacts, which are like footprints left behind on a system, to learn more about an incident/attacker/etc. 
   Tools: Windows Registry, Registry Explorer, RegRipper
 
+
+### Windows Forensics 2
+  Explanation: Learned structure of common file systems and briefly used Autopsy.
+  Tools: Autopsy 
