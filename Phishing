@@ -1,2 +1,6 @@
 ### Phishing Analysis Fundamentals
   Explanation: Understanding the structure of emails and how to identify malicious ones. 
+  Key Points: Emails consist of the username, @, and the domain. SMTP, POP3, and IMAP are the protocols used for the inbound and outbound of emails. 
+
+### Phishing Emails in Action
+  Explanation: Identifying methods attackers use to impersonate legitimate Emails. Comparing different types of methods and tactics used. 
