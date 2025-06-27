@@ -10,3 +10,8 @@
 ### Windows Forensics 2
   Explanation: Learned structure of common file systems and briefly used Autopsy.
   Tools: Autopsy 
+
+
+### Linux Forensics
+  Explanation: Undertsanding where important system information resides and how to locate it. 
+  Tools: CLI
