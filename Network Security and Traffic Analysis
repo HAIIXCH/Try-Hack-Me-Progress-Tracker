@@ -29,4 +29,9 @@
 
 ### ZEEK Exercises
   Explanation: Assigned to investigate given pcap files and find specifc information from them. 
-  Key points: Main takeaway is to understand how to navigate/search the outputted files from zeek. This will allow for us to easily locate the details we are looking for.  
+  Key Points: Main takeaway is to understand how to navigate/search the outputted files from zeek. This will allow for us to easily locate the details we are looking for.  
+
+
+### Brim
+  Explanation: Tool which allows pcap files to be investigated deeply. Configurable rule searching allows for tailored search queries.
+  Key Points: Although the default search queires are useful, they should not be relied upon and learning to search for information with your own rules is recommended.
