@@ -20,3 +20,7 @@
 ### Autopsy
   Explanation: A parsing tool which allows for inspection of artifacts on a system. Allows for the forensic analysis of a computer system in question. 
   WICTSFTR: The time files are downloaded/accessed/deleted can be discovered using this tool. Even deleted files can be inspected. 
+
+
+### Redline
+  Explanation: 
