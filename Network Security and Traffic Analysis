@@ -35,3 +35,9 @@
 ### Brim
   Explanation: Tool which allows pcap files to be investigated deeply. Configurable rule searching allows for tailored search queries.
   Key Points: Although the default search queires are useful, they should not be relied upon and learning to search for information with your own rules is recommended.
+
+
+### Wireshark: The Basics
+  Explanation: Understanding how wireshark is used to analyse pcap files and deeply investigating specific packets.
+  Key Points: Wireshark has a great GUI which helps analysts locate data they want. 
+  WICTSFTR: Using the toolbar we can use the 'go to packet' to move straight to a requested packet number. 
