@@ -41,3 +41,8 @@
   Explanation: Understanding how wireshark is used to analyse pcap files and deeply investigating specific packets.
   Key Points: Wireshark has a great GUI which helps analysts locate data they want. 
   WICTSFTR: Using the toolbar we can use the 'go to packet' to move straight to a requested packet number. 
+
+
+### Wireshark: Packet Operations
+  Explanation: Intricate methods of finding desired informations through understanding filters and tools at our disposal.
+  Key Points: Custom tailoring filters is an ideal way to find information. 
