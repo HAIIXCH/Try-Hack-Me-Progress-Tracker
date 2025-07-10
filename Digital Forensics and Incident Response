@@ -23,7 +23,7 @@
 
 
 ### Redline
-  Explanation: 
+  Explanation: A memory analysis tool used to investigate a potentially compromised Windows system by analysing a memory dump for suspicious processes, network activity, persistence, and IOCs.
 
 
 ### Velociraptor
