@@ -49,4 +49,5 @@
 
 
 ### Wireshark: Traffic Analysis
-  Explanation: 
+  Explanation: Case scenarios for various protocols such as http/s, icmp, ftp, and more whilst being tasked to disscest packets, uncover information, use filters, and understand frames and packets. 
+  Key Points: Understanding where the information you are looking for, within the structure of a packet, is located is a huge help.  
