@@ -51,3 +51,10 @@
 ### Wireshark: Traffic Analysis
   Explanation: Case scenarios for various protocols such as http/s, icmp, ftp, and more whilst being tasked to disscest packets, uncover information, use filters, and understand frames and packets. 
   Key Points: Understanding where the information you are looking for, within the structure of a packet, is located is a huge help.  
+
+
+### TShark: The Basics
+  Explanation: A command line version of wireshark used for filtering/displaying live traffic or pcaps.
+  Key Points: Being confident with the CLI is a major incentive, using capture filters we can specify the amount of traffic we want to save in a file. 
+
+
