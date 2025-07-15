@@ -58,3 +58,6 @@
   Key Points: Being confident with the CLI is a major incentive, using capture filters we can specify the amount of traffic we want to save in a file. 
 
 
+### TShark: CLI Wireshark Features
+  Explanation: Learning advanced methods of filtering using tshark
+  Key points: Similar/same filtering options are available on wireshark, but this room shows how to use them within th CLI using tshark.
