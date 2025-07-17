@@ -14,3 +14,6 @@
 ### Phishing Prevention
   Explanation: Teaches how to defend against phishing emails using a combination of email authentication frameworks, message analysis, and network monitoring tools.
   
+
+### The Greenholt Phish
+  Explanation: Examining a suspicous email and extracting useful information from it, such as the IP, the real file extension and the SHA256. 
