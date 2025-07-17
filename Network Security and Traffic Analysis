@@ -61,3 +61,12 @@
 ### TShark: CLI Wireshark Features
   Explanation: Learning advanced methods of filtering using tshark
   Key points: Similar/same filtering options are available on wireshark, but this room shows how to use them within th CLI using tshark.
+
+
+### TShark Challenge I: Teamwork
+  Explanation: Tasked to examine a pcap file and extract useful data from it. 
+
+
+### TShark Challenge II: Directory
+  Explanation: Tasked to find information from the pcap file.
+  Key Points: The more complex/thorough a filter is, the more precise the output will be, in terms of what you're looking for.  
