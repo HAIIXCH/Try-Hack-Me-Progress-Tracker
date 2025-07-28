@@ -26,6 +26,11 @@
   Explanation: A memory analysis tool used to investigate a potentially compromised Windows system by analysing a memory dump for suspicious processes, network activity, persistence, and IOCs.
 
 
+### KAPE
+  Explanation: A parsing tool which can be tailored to feed the user the data they are looking for.
+  Key Points: Revolves around targets and modules. Targets are forensic artifacts that need to be collected. Modules process artifacts and extract info from them.  
+
+
 ### Velociraptor
  Explanaion: 
 
