@@ -41,7 +41,13 @@
 
 
 ### TheHive Project
-  Explanation: A security incident response platform which allows security teams to track, investigate, and take action upon adversaries in a collaborative manner. 
+  Explanation: A security incident response platform which allows security teams to track, investigate, and take action upon adversaries in a collaborative manner.
+
+
+### Intro to Malware Analysis
+  Explanation: Undertsanding how to analyse malware in a safe and secure manner.
+  Key Points: Static analysis is analysing malware without running it, Dynamic analysis is executing the malware and observing its behaviour, Advanced malware analysis is controlling different points of executing a malware to  identify interesting stages. 
+
 
 
 ### Disgruntled
