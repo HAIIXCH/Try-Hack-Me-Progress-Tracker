@@ -28,7 +28,12 @@
 
 ### KAPE
   Explanation: A parsing tool which can be tailored to feed the user the data they are looking for.
-  Key Points: Revolves around targets and modules. Targets are forensic artifacts that need to be collected. Modules process artifacts and extract info from them.  
+  Key Points: Revolves around targets and modules. Targets are forensic artifacts that need to be collected. Modules process artifacts and extract info from them.
+
+
+### Volatility
+  Explanation: A tool used to extract data from memory dumps which is captured memory images (e.g., .raw, .mem, .vmem, .lime) taken from a system at a point in time.
+  Key Points: CLI tool which uses pyhton and analyses memory dumps, not live memory
 
 
 ### Velociraptor
