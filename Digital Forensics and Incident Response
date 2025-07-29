@@ -37,7 +37,7 @@
 
 
 ### Velociraptor
- Explanaion: 
+ Explanaion: -------------------------------------------------------------------------------------------------------------------
 
 
 ### TheHive Project
@@ -49,6 +49,10 @@
   Key Points: Static analysis is analysing malware without running it, Dynamic analysis is executing the malware and observing its behaviour, Advanced malware analysis is controlling different points of executing a malware to  identify interesting stages. 
 
 
+### Unattended
+  Explanation: Investigating a system for suspected unauthorised activity and discovering what exactly this activity was.
+  Tools: Autopsy, Registry Explorer
+
 
 ### Disgruntled
-  Explanation: 
+  Explanation: Investigating a linux system and locating artifacts of suspicious activity.
