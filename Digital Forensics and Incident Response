@@ -33,7 +33,7 @@
 
 ### Volatility
   Explanation: A tool used to extract data from memory dumps which is captured memory images (e.g., .raw, .mem, .vmem, .lime) taken from a system at a point in time.
-  Key Points: CLI tool which uses pyhton and analyses memory dumps, not live memory
+  Key Points: CLI tool which uses python and analyses memory dumps, not live memory
 
 
 ### Velociraptor
