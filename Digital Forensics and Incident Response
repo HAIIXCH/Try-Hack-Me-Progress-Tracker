@@ -56,3 +56,7 @@
 
 ### Disgruntled
   Explanation: Investigating a linux system and locating artifacts of suspicious activity.
+
+
+### Critical 
+  Explanation: Learning the techniques to analyse memory dumps along with the volatility tool to collect important data for deeper investigation. 
