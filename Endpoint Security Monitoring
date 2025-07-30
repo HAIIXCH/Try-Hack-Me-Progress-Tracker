@@ -1,1 +1,3 @@
-
+### Intro to Endpoint Security
+  Explanation: Exposure to the methodology in which artifacts are documented for endpoint security monitoring and the many useful tools to aid us in the process.
+  Tools: Task Manager, Sysinternals, TCPView, Process Explorer, Windows Event Logs, Sysmon, OSQuery, Kolide Fleet, Wazuh, 
