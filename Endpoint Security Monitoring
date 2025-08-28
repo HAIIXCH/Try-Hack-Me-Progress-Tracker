@@ -22,4 +22,5 @@
 
 
 ### Osquery: The Basics
-  Explanation: 
+  Explanation: A tool which allows us to query tables containing information regarding the host system
+  Key Points: OSQUERY website is good to use as reference for tables and their info. A CLI tool.
