@@ -32,3 +32,7 @@
 
 ### Monday MNonitor
   Explanation: A scenario where we must use Wazuh and sysmon to find the answers to questions. 
+
+
+### Retracted
+  Explanation: Scenario room where we investigate a system which has downloaded a virus and the changes made to the system by this. 
