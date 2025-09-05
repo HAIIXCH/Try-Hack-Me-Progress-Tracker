@@ -1,2 +1,11 @@
 ### Introduction to SIEM
   Explanation: Security Information and Even Management system. Understading what SIEM is and how rules are created to generate alerts on logs and suspicious activity. 
+
+
+### Investigating with ELK 101
+  Explanation: Utilising a tool called Kibana which is a SIEM tool to manage and investigate logs. 
+
+
+### ItsyBitsy
+  Explanation: Investigating an incident using Kibana and analysing key details inn an example scenario. 
+  Key Points: Filters massively help with sifting and finding what we need. 
