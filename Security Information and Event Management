@@ -18,3 +18,7 @@ st### Introduction to SIEM
 ### Incident handling with Splunk
   Explanation: Investigating an incident using splunk and the cyber kill chain assigning each phase of the attackers attack to a step in the chain. 
   Key Points: stacking filters on top of each other will make outputs more precise, knowing the various filters and what they do will be of great help
+
+
+### Investigating with Splunk
+  Explanation: 
