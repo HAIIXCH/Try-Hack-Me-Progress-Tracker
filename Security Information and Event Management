@@ -1,4 +1,4 @@
-st### Introduction to SIEM
+### Introduction to SIEM
   Explanation: Security Information and Even Management system. Understading what SIEM is and how rules are created to generate alerts on logs and suspicious activity. 
 
 
@@ -21,4 +21,5 @@ st### Introduction to SIEM
 
 
 ### Investigating with Splunk
-  Explanation: 
+  Explanation: Using Splunk and digging through logs to answer scenario based questions
+  Keypoints: Mastering how to look for what you need is important due to the amount of generated logs and how much data you must parse. 
