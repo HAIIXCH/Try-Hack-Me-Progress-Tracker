@@ -23,3 +23,7 @@
 ### Investigating with Splunk
   Explanation: Using Splunk and digging through logs to answer scenario based questions
   Keypoints: Mastering how to look for what you need is important due to the amount of generated logs and how much data you must parse. 
+
+
+### Benign
+  Explanation: Practice scenario investigating a user downloading an unauthorised application on system.
